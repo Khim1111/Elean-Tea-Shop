@@ -4,10 +4,12 @@ p {
   text-align: center;
 }
 body {
- /* background-color: rgba(228, 202, 168);*/
- background-image: url(https://images.pexels.com/photos/230477/pexels-photo-230477.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
+    background-color: rgba(228, 202, 168);
+    background-image: url(https://images.pexels.com/photos/230477/pexels-photo-230477.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
+   background-size: cover;
+   background-repeat: no-repeat;
 }
-tea-menu {
+.tea-menu {
   width: 80%;
   background-color: rgba(228, 202, 168);
   /*background-color: orangered;*/
