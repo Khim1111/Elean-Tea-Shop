@@ -17,7 +17,7 @@ body {
   margin-right: auto;
 }
 .tea-items p{
-    background-color:#ffa6002c;
+   
     display: inline-block;
 
    
@@ -25,7 +25,11 @@ body {
 
 .tea-flavor{
     text-align: left;
+    width: 50%;
+    background-color:#ffa6002c;
 }
 .tea-price{
     text-align: right;
+    width: 50%;
+    background-color:#ffa6009d;
 }
