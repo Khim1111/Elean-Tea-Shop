@@ -5,6 +5,7 @@ body {
     background-color: rgba(228, 202, 168);
 }
 div{
-    width: 300px;
-    background-color: #ffa500;
+    width: 80%;
+    background-color:  rgba(228, 202, 168);
+    background-color: orangered;
 }
