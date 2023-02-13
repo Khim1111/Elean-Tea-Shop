@@ -18,7 +18,7 @@ h2{
   
 }
 body {
-  background-color: rgba(228, 202, 168);
+  background-color: rgba(231, 199, 157, 0.982);
   background-image: url(https://images.pexels.com/photos/8330249/pexels-photo-8330249.jpeg?auto=compress&cs=tinysrgb&w=1600);
   background-size: cover;
   background-repeat: no-repeat;
@@ -27,6 +27,7 @@ body {
 hr{
   height: 2px;
   background-color: rgba(228, 202, 168, 0.906);
+  border-color: rgba(130, 75, 4, 0.977) ;
 }
 .tea-menu {
   width: 80%;
