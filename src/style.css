@@ -9,9 +9,12 @@ h1 {
 font-size:  45px; 
 text-align: center;
 color: #080500;
-
+text-shadow: -1px 16px 8px rgba(48,44,38,0.56);
 }
 h2{
+  box-shadow: -6px 7px 21px -7px rgba(0,0,0,0.74);
+  -webkit-box-shadow: -6px 7px 21px -7px rgba(0,0,0,0.74);
+  -moz-box-shadow: -6px 7px 21px -7px rgba(0,0,0,0.74);
   text-align: center;
   font-size: 23px;
   background-color: #ffa6007d;
@@ -28,9 +31,11 @@ body {
   height: 2px;
   background-color: rgba(228, 202, 168, 0.906);
   border-color: rgba(130, 75, 4, 0.977) ;
+
 }
 
 .tea-menu {
+  padding: 20px;
   width: 80%;
   max-width: 500px;
   background-color: rgba(228, 202, 168, 0.45);
@@ -41,7 +46,9 @@ body {
   padding: 20px;
   padding-top: 20px;
   padding-bottom: 20px;*/
-  padding: 20px;
+  box-shadow: -6px 7px 21px -7px rgba(0,0,0,0.74);
+  -webkit-box-shadow: -6px 7px 21px -7px rgba(0,0,0,0.74);
+  -moz-box-shadow: -6px 7px 21px -7px rgba(0,0,0,0.74);
 }
 .established{
   font-style: italic;
