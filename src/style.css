@@ -23,12 +23,12 @@ body {
   display: inline-block;
 }
 
-.tea-flavor {
+.tea-flavor, .collections-flavor {
   text-align: left;
   width: 75%;
   background-color: #ffa6000e;
 }
-.tea-price {
+.tea-price, .collections-price {
   text-align: right;
   width: 25%;
   background-color: #ffa6009d;
