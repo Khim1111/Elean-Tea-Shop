@@ -84,3 +84,17 @@ body {
 footer{
   font-size: 14px;
 }
+
+a:link{
+  color: black;
+}
+/*lvha*/
+a:visited{
+  color: black;
+}
+a:hover{
+  color: blue;
+}
+a:active{
+  color: red
+}
