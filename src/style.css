@@ -25,20 +25,25 @@ body {
   padding-bottom: 20px;*/
   padding: 20px;
 }
+.established{
+  font-style: italic;
+}
+
 .tea-items p {
   display: inline-block;
+  font-weight: 400;
 }
 
 .tea-flavor, .collections-flavor {
   text-align: left;
   width: 75%;
-  background-color: #ffa6003e;
+ /* background-color: #ffa6003e;*/
   font-weight: 150%;
 
 }
 .tea-price, .collections-price {
   text-align: right;
   width: 25%;
-  background-color: #ffa6009d;
+  /* background-color: #ffa6009d;*/
 
 }
