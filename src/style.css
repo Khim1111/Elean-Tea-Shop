@@ -5,6 +5,13 @@ h2,
 p {
   text-align: center;
 }
+h1 {
+font: size 40px; 
+}
+h2{
+  font-size: 35px;
+}
+
 body {
   background-color: rgba(228, 202, 168);
   background-image: url(https://images.pexels.com/photos/8329261/pexels-photo-8329261.jpeg?auto=compress&cs=tinysrgb&w=600);
