@@ -24,6 +24,10 @@ body {
   background-repeat: no-repeat;
   font-family: 'Roboto', sans-serif;
 }
+hr{
+  height: 2px;
+  background-color: rgba(228, 202, 168, 0.906);
+}
 .tea-menu {
   width: 80%;
   max-width: 500px;
