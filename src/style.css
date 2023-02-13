@@ -54,9 +54,10 @@ body {
   font-style: italic;
 }
 
-.tea-items p {
+.tea-items p{
   display: inline-block;
   font-weight: 400;
+  margin: 5px 0px;
 }
 
 .tea-flavor, .collections-flavor {
