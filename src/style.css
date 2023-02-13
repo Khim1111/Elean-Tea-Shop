@@ -14,7 +14,7 @@ color: #080500;
 h2{
   text-align: center;
   font-size: 23px;
-  background-color: #ffa6009d;
+  background-color: #ffa6007d;
   
 }
 body {
@@ -24,15 +24,16 @@ body {
   background-repeat: no-repeat;
   font-family: 'Roboto', sans-serif;
 }
-hr{
+.top-line, .bottom-line{
   height: 2px;
   background-color: rgba(228, 202, 168, 0.906);
   border-color: rgba(130, 75, 4, 0.977) ;
 }
+
 .tea-menu {
   width: 80%;
   max-width: 500px;
-  background-color: rgba(228, 202, 168, 0.463);
+  background-color: rgba(228, 202, 168, 0.45);
   /*background-color: orangered;*/
   margin-left: auto;
   margin-right: auto;
