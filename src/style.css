@@ -1,20 +1,25 @@
+
 @import url("https://fonts.googleapis.com/css2?family=Poppins&family=Roboto+Slab:wght@400;700&display=swap");
 
-h1,
-h2,
-p {
+p{
   text-align: center;
+  
 }
 h1 {
-font: size 40px; 
+font-size:  45px; 
+text-align: center;
+color: #080500;
+
 }
 h2{
-  font-size: 35px;
+  text-align: center;
+  font-size: 23px;
+  background-color: #ffa6009d;
+  
 }
-
 body {
   background-color: rgba(228, 202, 168);
-  background-image: url(https://images.pexels.com/photos/8329261/pexels-photo-8329261.jpeg?auto=compress&cs=tinysrgb&w=600);
+  background-image: url(https://images.pexels.com/photos/8330249/pexels-photo-8330249.jpeg?auto=compress&cs=tinysrgb&w=1600);
   background-size: cover;
   background-repeat: no-repeat;
   font-family: 'Roboto', sans-serif;
@@ -22,7 +27,7 @@ body {
 .tea-menu {
   width: 80%;
   max-width: 500px;
-  background-color: rgba(228, 202, 168, 0.509);
+  background-color: rgba(228, 202, 168, 0.463);
   /*background-color: orangered;*/
   margin-left: auto;
   margin-right: auto;
